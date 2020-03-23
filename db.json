@@ -7,7 +7,7 @@
         "organizationalUnit":{
           "id":100,
           "type":{
-            "name":"יחידת משנה"
+            "name":"גף"
           },
           "fullRoot":"א/ב/ג"
         },
@@ -26,8 +26,27 @@
     },
     {
       "id":2,
-      "name":"YOSSI",
-      "job":29
+      "personalNumber":2,
+      "station":{
+        "organizationalUnit":{
+          "id":100,
+          "type":{
+            "name":"גף"
+          },
+          "fullRoot":"א/ב/ג"
+        },
+        "role":{
+          "name":"חייל"
+        }
+      },
+      "image":"dfsdfsdgfsdsdgsdg",
+      "firstName":"עדן",
+      "lastName":"מלסה",
+      "dischargeDate":"00:00:00 07/09/34",
+      "profession":{
+        "id":2000,
+        "name":"ע. תמיר"
+      }
     }
    ]
 }
