@@ -21,9 +21,9 @@
       "dischargeDate":"00:00:00 07/09/21",
       "profession":{
         "profession":{
-          "id":1000
-        },
-        "name":"קציצה"
+          "id":1000,
+          "name":"קציצה"
+        }
       }
     },
     {
