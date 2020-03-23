@@ -7,5 +7,17 @@
   ],
   "profile": {
     "name": "typicode"
-  }
+  },
+  "soldiers":[
+    {
+      "id":1,
+      "name":"TAMIR",
+      "job":1
+    }
+    {
+      "id":2,
+      "name":"YOSSI",
+      "job":29
+    }
+   ]
 }
