@@ -2,8 +2,27 @@
   "soldiers":[
     {
       "id":1,
-      "name":"TAMIR",
-      "job":1
+      "personalNumber":1,
+      "station":{
+        "organizationalUnit":{
+          "id":100,
+          "type":{
+            "name":"יחידת משנה"
+          },
+          "fullRoot":"א/ב/ג"
+        },
+        "role":{
+          "name":"מפקד"
+        }
+      },
+      "image":"dfsdfsdgfsdsdgsdg",
+      "firstName":"תמיר",
+      "lastName":"דוד",
+      "dischargeDate":"00:00:00 07/09/21",
+      "profession":{
+        "id":1000,
+        "name":"קציצה"
+      }
     },
     {
       "id":2,
