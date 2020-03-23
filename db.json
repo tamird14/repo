@@ -47,9 +47,9 @@
       "dischargeDate":"00:00:00 07/09/34",
       "profession":{
         "profession":{
-          "id":2000
-        },
-        "name":"ע. תמיר"
+          "id":2000,
+          "name":"ע. תמיר"
+        }
       }
     }
    ]
