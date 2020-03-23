@@ -7,7 +7,7 @@
         "organizationalUnit":{
           "id":100,
           "type":{
-            "name":"גף"
+            "name":"יחידת משנה"
           },
           "fullRoot":"א/ב/ג"
         },
@@ -31,7 +31,7 @@
         "organizationalUnit":{
           "id":100,
           "type":{
-            "name":"גף"
+            "name":"יחידת משנה"
           },
           "fullRoot":"א/ב/ג"
         },
