@@ -20,7 +20,9 @@
       "lastName":"דוד",
       "dischargeDate":"00:00:00 07/09/21",
       "profession":{
-        "id":1000,
+        "profession":{
+          "id":1000
+        },
         "name":"קציצה"
       }
     },
@@ -44,7 +46,9 @@
       "lastName":"מלסה",
       "dischargeDate":"00:00:00 07/09/34",
       "profession":{
-        "id":2000,
+        "profession":{
+          "id":2000
+        },
         "name":"ע. תמיר"
       }
     }
