@@ -2,7 +2,7 @@
   "soldiers":[
     {
       "id":1,
-      "personalNumber":1,
+      "PersonalNumber":1,
       "station":{
         "organizationalUnit":{
           "id":100,
@@ -28,7 +28,7 @@
     },
     {
       "id":2,
-      "personalNumber":2,
+      "PersonalNumber":2,
       "station":{
         "organizationalUnit":{
           "id":100,
