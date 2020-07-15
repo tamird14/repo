@@ -3,7 +3,7 @@
     {
       "id":1,
       "PersonalNumber":1,
-      "Station":{
+      "station":{
         "organizationalUnit":{
           "id":100,
           "type":{
@@ -29,7 +29,7 @@
     {
       "id":2,
       "PersonalNumber":2,
-      "Station":{
+      "station":{
         "organizationalUnit":{
           "id":100,
           "type":{
