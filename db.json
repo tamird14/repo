@@ -21,7 +21,7 @@
       "LastName":"דוד",
       "DischargeDate":"00:00:00 07/09/21",
       "JobID":1000,
-      "JobName":"קציצה"
+      "JobName":"קציצה",
       "Profession":{
         "profession":{
           "id":1000,
@@ -54,7 +54,7 @@
       "Profession":{
         "profession":{
           "id":2000,
-          "name":"ע. תמיר"
+          "name":"ע. תמיר",
         }
       }
     }
