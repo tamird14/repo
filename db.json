@@ -3,7 +3,7 @@
     {
       "id":1,
       "PersonalNumber":1,
-      "station":{
+      "Station":{
         "organizationalUnit":{
           "id":100,
           "type":{
@@ -15,11 +15,11 @@
           "name":"מפקד"
         }
       },
-      "image":"dfsdfsdgfsdsdgsdg",
-      "firstName":"תמיר",
-      "lastName":"דוד",
-      "dischargeDate":"00:00:00 07/09/21",
-      "profession":{
+      "Image":"dfsdfsdgfsdsdgsdg",
+      "FirstName":"תמיר",
+      "LastName":"דוד",
+      "DischargeDate":"00:00:00 07/09/21",
+      "Profession":{
         "profession":{
           "id":1000,
           "name":"קציצה"
@@ -29,7 +29,7 @@
     {
       "id":2,
       "PersonalNumber":2,
-      "station":{
+      "Station":{
         "organizationalUnit":{
           "id":100,
           "type":{
@@ -41,11 +41,11 @@
           "name":"חייל"
         }
       },
-      "image":"dfsdfsdgfsdsdgsdg",
-      "firstName":"עדן",
-      "lastName":"מלסה",
-      "dischargeDate":"00:00:00 08/09/34",
-      "profession":{
+      "Image":"dfsdfsdgfsdsdgsdg",
+      "FirstName":"עדן",
+      "LastName":"מלסה",
+      "DischargeDate":"00:00:00 08/09/34",
+      "Profession":{
         "profession":{
           "id":2000,
           "name":"ע. תמיר"
